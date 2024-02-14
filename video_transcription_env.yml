@@ -1,0 +1,8 @@
+name: video_transcription_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - moviepy
+  - pyaudio
+  - speechrecognition
